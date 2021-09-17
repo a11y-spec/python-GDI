@@ -26,7 +26,7 @@ def ex1():
 def ex2():
     dc = win32gui.GetDC(0)
     red = win32api.RGB(255, 0, 0)
-    win32gui.SetPixel(dc, 0, 400, red)  # draw red at 0,0
+    win32gui.SetPixel(dc, 0, 400, green)  
 
 
 def ex3():
