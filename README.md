@@ -1,2 +1,10 @@
-# python-GDI
-Python Drawing pixel and random things directly on Desktop Screen.
+### Installation
+
+1. Install Python3.
+
+2. Install modules
+   ```sh
+   pip install pywin32
+   ```
+
+
