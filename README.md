@@ -6,5 +6,7 @@
    ```sh
    pip install pywin32
    ```
+   
+   sry for bad unoptimized code :(
 
 
